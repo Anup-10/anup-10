@@ -45,3 +45,6 @@ Passionate about **learning new technologies** and building **practical projects
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/anuphalder67)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/ap__anup/)
 ---
+
+### 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
