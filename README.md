@@ -2,10 +2,10 @@
 
 
 
-<!-- Typing Animation SVG -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=500&color=00FF00&width=700&lines=Undergraduate+Student;Aspiring+Software+Developer;Tech+Enthusiast)
+<!-- Typing Animation Header -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=500&color=00FF00&width=700&lines=CS+Student;Developer+%26+Designer;Passionate+About+Innovation)
 
-**🎓 Undergraduate Student | 💻 Aspiring Software Developer | 🌟 Tech Enthusiast**  
+**🎓 CSE Student | 💻 Developer & Designer | 🌟 Passionate About Innovation**  
 Focused on **coding, development projects**, and **real-world problem solving**.  
 Passionate about **learning new technologies** and building **practical projects**.
 
