@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Anup Halder
 
+[![Profile Views](https://komarev.com/ghpvc/?username=Anup-10&color=blue&style=flat-square)](https://github.com/Anup-10)
 
 
 <!-- Fade Type Animation Header -->
