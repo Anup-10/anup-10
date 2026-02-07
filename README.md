@@ -12,7 +12,6 @@ Passionate about **learning new technologies** and building **practical projects
 ---
 
 
-
 ## 💻 Tech Stack
 
 **🖥 Languages:**  
@@ -37,13 +36,6 @@ Passionate about **learning new technologies** and building **practical projects
 
 ---
 
-## 🚀 Projects
-
-### 🐍 Snake Game (Python)
-**Terminal-based Snake Game with simple controls.**  
-
-![Snake Game Demo](https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif)  
-**Controls:** W A S D
 
 ## 🌐 Connect With Me
 
@@ -53,8 +45,3 @@ Passionate about **learning new technologies** and building **practical projects
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/anuphalder67)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/ap__anup/)
 ---
-
-[View Full Project →](https://github.com/Anup-10/Snake-Game)
-
----
-
